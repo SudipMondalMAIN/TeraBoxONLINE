@@ -9,7 +9,7 @@ import time
 WATCH_DURATION = 60  # seconds
 
 # Your Telegram bot token
-BOT_TOKEN = "7562538667:AAGi_PthWGsUDF-69xetHSaV5GhG_DgIcpM"
+BOT_TOKEN = "7642739791:AAFcdWANMba8ksRGhqaNanrGJhNKKrf2h5U"
 
 # Regex to validate Terabox video link
 TERABOX_REGEX = r'https?://(www\.)?(terabox|4funbox)\.com/s/[a-zA-Z0-9]+'
